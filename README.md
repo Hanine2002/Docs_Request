@@ -5,5 +5,5 @@ This application is a dashboard developed using AngularJS and Laravel. It facili
 ## Installation
 
 1. Create and configure the database:\
-    mysql -u yourusername -p
+    mysql -u yourusername -p\
    CREATE DATABASE projetspring;
